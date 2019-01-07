@@ -10,4 +10,4 @@
 
 3、快捷键：Enter-暂停和播放，方向键左/右-选择单词输入框
 
-![demo](https://raw.githubusercontent.com/terry2tan/learningenglish/master/static/media/demo.png)
+![demo](https://raw.githubusercontent.com/terry2tan/wordByword/master/static/media/demo.png)
