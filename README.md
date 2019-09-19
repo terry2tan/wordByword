@@ -8,6 +8,7 @@
 
 2、将音频链接贴到Online URL
 
-3、快捷键：Enter-暂停和播放，方向键左/右-选择单词输入框
+3、快捷键：
+Enter：暂停和播放，方向键左/右：选择单词输入框， 方向键上/下：快退/快进，ESC：显示正确单词
 
 ![demo](https://raw.githubusercontent.com/terry2tan/wordByword/master/static/media/demo.png)
